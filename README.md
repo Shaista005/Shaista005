@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shaista005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shaista Ali
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Testing in Blockchain Tech
+- 💞️ I’m looking to collaborate on Blockchain Technologies 
+- 📫 How to reach me shaista005@gmail.com
 
 <!---
 Shaista005/Shaista005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
