@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shaista Ali
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Testing in Blockchain Tech
-- 💞️ I’m looking to collaborate on Blockchain Technologies 
+- 👀 I’m interested in Software Testing and Product Management
+- 🌱 I’m intrested in working on Domanis such as Healthcare , Finance and Blockchain
+- 💞️ I’m looking to collaborate on Testing Management 
 - 📫 How to reach me shaista005@gmail.com
 
 <!---
